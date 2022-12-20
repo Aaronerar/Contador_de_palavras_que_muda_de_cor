@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+#container {
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+
+#button2 {
+    margin: 10px;
+}
+
+#changer {
+    height: 5vh;
+    
+}
+
+
